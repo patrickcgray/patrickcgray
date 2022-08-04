@@ -5,7 +5,7 @@
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8997-5255&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8997-5255)
-[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)]([https://scholar.google.com/citations?user=t1lmjVkAAAAJ](https://scholar.google.com/citations?user=66Aq-PoAAAAJ))
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=66Aq-PoAAAAJ)
 [![Twitter](https://img.shields.io/twitter/follow/clifgray?logo=twitter&style=flat-square)](https://twitter.com/clifgray)
 
 ### Software Development
