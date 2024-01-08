@@ -10,7 +10,7 @@
 
 ### Software Development
 
-My software projects range from workflows to process ocean color data from drones (soon to be released!) to [open access geospatial and remote sensing courses](https://github.com/patrickcgray/open-geo-tutorial) to [satellite analysis of ocean dynamics](https://github.com/earthcube2021/ec21_gray_etal) to [machine learning for detecting marine megafauna](https://github.com/patrickcgray/cetacean_photogram). I'm a strong proponent of open source science, teaching, and data access.
+My software projects range from workflows to [process ocean color data from drones](https://github.com/aewindle110/DroneWQ) to [open access geospatial and remote sensing courses](https://github.com/patrickcgray/open-geo-tutorial) to [satellite analysis of ocean dynamics](https://github.com/earthcube2021/ec21_gray_etal) to [machine learning for detecting marine megafauna](https://github.com/patrickcgray/cetacean_photogram). I'm a strong proponent of open source science, teaching, and data.
 
 ### Short Biography
 
