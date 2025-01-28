@@ -1,6 +1,6 @@
 # Patrick Gray
 
-### Oceanography, Optics, Remote Sensing, Earth Systems, Scientific Computing
+### Oceanography, Optics, Remote Sensing, Earth System Science, Scientific Computing
 
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
@@ -14,4 +14,6 @@ My software projects range from workflows to [process ocean color data from dron
 
 ### Short Biography
 
-I'm currently Zuckerman Postdoctoral fellow with Emmanuel Boss and Yoav Lehahn at University of Maine and University of Haifa studying ocean optics and marine biophysical interactions. I just finished up my PhD with Dave Johnston in the Marine Robotics and Remote Sensing Lab at the Duke University Marine Laboratory and a Future Investigator in NASA Earth and Space Science and Technology (FINESST). My doctoral research focused on satellite, drone and in-situ optical observations of oceans and coasts. My work aims to understand spatial and temporal variability of ocean biology and ecology. Working at the confluence of remote sensing, data science, and biological oceanography I lean heavily on machine learning and scientific computing tools for parsing large amounts of data and connecting remotely sensed and in-situ oceanographic monitoring. I'm particularly interested in tools and research that will be relevant for Earth science and for exploring other bodies within our solar system.
+I’m currently an Assistant Research Professor at the University of Maine’s School of Marine Sciences. I’m interested in biological oceanography and marine ecology (from viruses to whales) as well as applied and fundamental ocean optics within a broader Earth system science framework. My work is often a combination of seagoing observations, satellite remote sensing, and lab-based analysis - all with a strong computational dimension. Working at the confluence of remote sensing, data science, and seagoing oceanography I lean heavily on machine learning and scientific computing tools for parsing large amounts of data and connecting remotely sensed and in-situ oceanographic monitoring. I'm also interested in tools and ideas that will be relevant for Earth science and for exploring other bodies within our solar system.
+
+
